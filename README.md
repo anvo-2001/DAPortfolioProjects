@@ -1,5 +1,5 @@
 # DAPortfolioProjects
-This Repository will hold all of the SQL codes; Power BI dashboards (pbix and pdf) from the Portfolio Projects that I have been doing.
+This Repository will hold all of the SQL codes; Power BI dashboards (pbix and pdf) from Data Analysis Projects that I have been doing.
 
 Project overview:
   1. Covid 19 Project
