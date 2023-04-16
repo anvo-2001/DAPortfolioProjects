@@ -5,4 +5,6 @@ Project overview:
   1. Covid 19 Project
 About: This project is used to track Covid 19 situations around the world from Jan 2020 to Jan 2023 (total cases, deaths, fatality ratio, etc.)
 Tools used: SQL (with detailed explanations in the code) and Power BI
-
+  2. Excel Dashboard practice
+ About: This project includes small Excel dashboards (e.g., sales performance) that I have practiced using Power Query, Pivot table and building interactive charts
+ Tools: Excel
