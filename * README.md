@@ -13,7 +13,7 @@ Tools used: SQL (with detailed explanations in the code) and Power BI
  About: This project includes small Excel dashboards (e.g., sales performance) that I have practiced using Power Query, Pivot table and building interactive charts
  Tools used: Excel
  
- **3. Automate Data Fetch:**
+ **3. Automate Data Fetch**
  
  About: This project provides a flexible and easy-to-use framework to streamline data acquisition tasks, which usually requires to run a lot SQL queries or a heavy SQL code
  Tools used: Python
